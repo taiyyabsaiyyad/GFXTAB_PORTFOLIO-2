@@ -1,9 +1,7 @@
-# Krishna R Portfolio v2.0
-Hello there! I'm Krishna R, a B.Tech Computer Science student, Cloud & DevOps enthusiast, and a creative thinker.
+# Taiyyab Saiyyad Portfolio v2.0
+Hello there! I'm Taiyyab Saiyyad, a Visual Designer and Associate Creative Director specializing in 3D interactive experiences and high-end visual identity.
 
-This is the interactive 3D version of my personal portfolio, built to showcase my journey, hackathon projects, and technical skills.
-
-Checkout the live version at [devkrishnarv2-0.vercel.app](https://devkrishna-v2.vercel.app/)
+This is the interactive 3D version of my personal portfolio, built to showcase my creative journey, design projects, and high-fidelity motion graphics.
 
 ## 🚀 Tech Stack
 
@@ -16,4 +14,4 @@ Checkout the live version at [devkrishnarv2-0.vercel.app](https://devkrishna-v2.
 - **Styling**: Tailwind CSS
 
 ---
-Built with ❤️ by Krishna R.
+Built with ❤️ by Taiyyab Saiyyad.
